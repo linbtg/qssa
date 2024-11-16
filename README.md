@@ -7,7 +7,7 @@ Qlik Sense Shortcut Actions is a powerful browser extension designed to enhance 
 By automating these actions, this tool eliminates the need for time-consuming manual navigation and clicks, allowing users to focus on what matters most—analyzing and managing data.
 
 ## Features:
-###Keyboard Shortcuts:
+### Keyboard Shortcuts:
 
 Use customizable shortcuts to trigger specific actions directly on the Qlik Sense QMC interface:
 Alt+Shift+E: Export the selected app.
